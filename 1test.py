@@ -3,5 +3,5 @@ b=2
 c=a+b
 print(c)
 print(a)
-print(b)
+print(b+10)
 print(a+b+c)
